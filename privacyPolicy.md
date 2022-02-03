@@ -57,7 +57,7 @@ By using our website or products and/or by providing your information, you conse
 
 We are required to send one time password (OTP), order updates, product & subscriptions updates to your mobile number and email address. You will receive these messages even if your number is registered for the Do Not Disturb (DND) option.
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at admin@codeplayers.in
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at businessgenie9@gmail.com 
 
 # Disclosure
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
